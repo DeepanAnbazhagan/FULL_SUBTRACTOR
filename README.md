@@ -1,6 +1,6 @@
 # FULL_SUBTRACTOR
 # AIM:
-To simulate and synthesis Full subtractor using Vivado software.
+To simulate and synthesis of Full subtractor using Vivado software.
 # APPARATUS REQUIRED:
 Vivado 2023.1 software.
 # Truth Table and Circuit Diagram
@@ -21,7 +21,7 @@ Vivado 2023.1 software.
   <img width="960" alt="Screenshot 2024-03-25 221800" src="https://github.com/DeepanAnbazhagan/FULL_SUBTRACTOR/assets/164902865/30e667f1-31fd-4765-bca9-d30664e1b787">
   
   # RESULT:
-Thus the simulate and synthesis Full subtractor verified successfully by using Vivado software.
+Thus the simulate and synthesis of Full subtractor is verified successfully by using Vivado software.
 
 
 
