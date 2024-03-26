@@ -20,9 +20,9 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module full_subtractor(a, b, c,D, Bout);
+module full_subtractor(a, b, c, D, Bout);
 input a, b, c;
 output D, Bout;
-                               //Write the logic for full adder in Dataflow modeling
-  
-endmodule  
+assign D = a ^ b ^ c ;
+assign Bout = ~a & (b^c) | b & c;
+endmodule
